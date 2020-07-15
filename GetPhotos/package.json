@@ -1,0 +1,17 @@
+{
+  "name": "user-photos",
+  "version": "0.0.0",
+  "description": "UserPhotos",
+  "main": "./bin/index.js",
+  "author": {
+    "name": ""
+  },
+  "bin": {
+    "GetPhotos": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "qs": "^6.9.4",
+    "yargs": "^13.3.2"
+  }
+}

@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/GetPhotos/.vs/GetPhotos/v16
+/GetPhotos/bin/Microsoft.NodejsTools.WebRole.dll
+/GetPhotos/node_modules
+/GetPhotos/obj/Debug
+/GetPhotos/GetPhotos.njsproj
+/GetPhotos/GetPhotos.sln
+/GetPhotos/package-lock.json
